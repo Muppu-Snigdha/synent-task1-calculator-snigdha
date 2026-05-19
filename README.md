@@ -11,6 +11,7 @@ This is a simple command-line calculator built using Python.
 
 ## Technologies Used
 - Python
+- Tkinter
 
 ## How to Run
 
